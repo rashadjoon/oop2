@@ -1,3 +1,7 @@
+---
+share_link: https://share.note.sx/apmkfjg6#Cr63RcutlOt7B9Cu6cOu43OJXWhlAkxfdNckr+ICV+U
+share_updated: ٢٠٢٦-١٠-١٥T٠٦:٤٢:١٥+٠٣:٠٠
+---
  في البداية الهدف من هذا المقال هو مقدمة عن ماهية الOOP ولو ما كنت من النوع الذي يقرا يفضل ان تشاهد فيديو مقدمة الOOP للمهندس محمد ابو هدهود والذي بمناسبة لو شاهدت الفيديو فهو سيسهل عليك فهم المقال
  رابط الفيديو [https://www.youtube.com/watch?v=oH13cf3D7G4](https://www.youtube.com/watch?v=oH13cf3D7G4) 
  
